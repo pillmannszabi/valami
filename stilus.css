@@ -1,0 +1,28 @@
+.tabla{
+    text-align: center;
+    background-color: bisque;
+    margin: auto;
+    border-color: red;
+}
+
+#tablazat{
+    background-color: rgba(0, 0, 255, 0.295);
+}
+
+.felsor1{
+    margin: auto;
+    background-color: coral;
+    box-shadow: 20px 10px 5px;
+    text-align: center;
+}
+
+.felsor2{
+    margin: 20px 10px ;
+    background-color: aqua;
+    box-shadow: 30px 15px 5px;
+}
+
+.felsor3{
+    float: left;
+    background-color: lightgreen;
+}
